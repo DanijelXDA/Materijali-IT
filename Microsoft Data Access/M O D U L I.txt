@@ -1,0 +1,17 @@
+				
+
+
+			   M o d u l i => Microsoft Data Access
+
+
+		Modul 1 => Osnove rada sa podacima
+
+		Modul 2 => LINQ
+
+		Modul 3 => Rad sa EF modelom
+
+		Modul 4 => Manipulacija podacima korišæenjem EF-a
+
+		Modul 5 => EF Code First
+
+		Modul 6 => Konkurencija, transakcije i performanse u EF-u

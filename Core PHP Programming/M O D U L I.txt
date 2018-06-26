@@ -1,0 +1,19 @@
+				
+
+
+			   M o d u l i => Core PHP Programming
+
+
+		Modul 1 => Definicija instalacija i osnove PHP - a
+
+		Modul 2 => Kontrola toka
+
+		Modul 3 => Funkcije
+
+		Modul 4 => Nizovi
+
+		Modul 5 => Stringovi
+
+		Modul 6 => Bezbednost i debug 
+
+		Modul 7 => Rad sa podacima

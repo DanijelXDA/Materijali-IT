@@ -1,0 +1,21 @@
+				
+
+
+			   M o d u l i => Programming in HTML5 with JavaScript and CSS3
+
+
+		Modul 1 => Uvod
+
+		Modul 2 => Struktura HTML dokumenta
+
+		Modul 3 => Stilizovanje HTML dokumenta
+
+		Modul 4 => Uvod u JavaScript
+
+		Modul 5 => Kontrola toka izvršavanja JS koda
+
+		Modul 6 => JS funkcije i objekti
+		
+		Modul 7 => Manipulisanje strukturom, stilizacijom i podacima korišæenjem JS-a
+
+		Modul 8 => jQuery
